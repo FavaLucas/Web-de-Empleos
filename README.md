@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Prueba de Concepto Frontend - Página Web Municipal de Búsqueda de Empleo!
 
-## Getting Started
+***Descripción:***
 
-First, run the development server:
+Este repositorio contiene el código fuente y la documentación para la página web de búsqueda de empleo y empleados perteneciente al Municipio de Olavarría. 
+El objetivo principal de esta plataforma es facilitar la conexión entre empleadores y solicitantes de empleo dentro de nuestra comunidad.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+***Características Principales:***
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Búsqueda de Empleo: Los usuarios pueden explorar y buscar diversas ofertas laborales disponibles dentro del municipio y aplicar a la que les resulte atractiva.	
+Búsqueda de Candidatos: Los usuarios pueden encontrar distintos perfiles de candidatos para su empresa y así poder contratarlos.
+Interfaz Amigable: Diseño intuitivo y fácil navegación para garantizar una experiencia positiva para todos los usuarios.
 
-You can start editing the page by modifying `app/Home.tsx`. The page auto-updates as you edit the file.
+***Tecnologías Utilizadas:***
+ - Lenguajes: HTML, CSS, Java Script. 
+ - Front-end: React.js, Boostrap, Mui. 
+ - Back-end: Node.js, Axios, MockApi.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+***Instalación y Uso:***
+ 1. Clona este repositorio: git clone https://github.com/KevinFrias051/ProyectFinCuatrimestre.git.
+ 2. Instala las dependencias del frontend y backend: npm install.
+ 3. Ejecuta el servidor: npm run dev.
+ 4. Accede a la plataforma desde tu navegador: http://localhost:3000.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+***Equipo de Desarrollo:***
+Este proyecto es mantenido por el equipo patata compuesto por: 
+ - Kevin Frias(PM).
+ - Franco Serjen.
+ - Mario Lindner.
+ - Ariel Romera.
+ - Lucas Fava.
+	
+***By Team Potato***
